@@ -1,0 +1,19 @@
+# Dependencies and virtual environments
+**/node_modules/
+**/.venv/
+
+# Build output
+**/dist/
+
+# Local configuration
+**/.env
+
+# Python artifacts
+**/__pycache__/
+*.py[cod]
+
+# Local application data
+*.db
+*.db-shm
+*.db-wal
+**/uploads/

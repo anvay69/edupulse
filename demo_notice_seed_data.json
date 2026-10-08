@@ -1,0 +1,41 @@
+[
+  {
+    "title": "DBMS Assignment 3",
+    "description": "Complete the normalization problems from the assignment sheet, write SQL queries for the provided schema, and submit a single PDF through the course portal. Include your name and section on the first page.",
+    "created_by_email": "teacher@edupulse.demo",
+    "deadline": "2026-10-14",
+    "department": "CSE",
+    "year": 3,
+    "section": "A",
+    "course": "DBMS",
+    "attachment_url": null,
+    "tags": ["assignment", "DBMS"],
+    "sample_pdf": "dbms_assignment_3.pdf"
+  },
+  {
+    "title": "Mid-Semester Examination Schedule",
+    "description": "The CSE Year 3 mid-semester examinations begin next week. Check the department notice board for the room allocation and bring your student ID.",
+    "created_by_email": "teacher@edupulse.demo",
+    "deadline": null,
+    "department": "CSE",
+    "year": 3,
+    "section": "all",
+    "course": null,
+    "attachment_url": null,
+    "tags": ["examination", "schedule"],
+    "sample_pdf": "mid_semester_examination_schedule.pdf"
+  },
+  {
+    "title": "General Department Announcement",
+    "description": "The CSE department will hold a student feedback session in the seminar hall. All department students are welcome to attend.",
+    "created_by_email": "teacher@edupulse.demo",
+    "deadline": null,
+    "department": "CSE",
+    "year": "all",
+    "section": "all",
+    "course": null,
+    "attachment_url": null,
+    "tags": ["announcement"],
+    "sample_pdf": "general_department_announcement.pdf"
+  }
+]

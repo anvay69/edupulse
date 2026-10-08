@@ -1,0 +1,28 @@
+[
+  {
+    "username": "Dr. Sharma",
+    "email": "teacher@edupulse.demo",
+    "password": "teacher123",
+    "role": "teacher"
+  },
+  {
+    "username": "Ananya",
+    "email": "student.a@edupulse.demo",
+    "password": "student123",
+    "role": "student",
+    "department": "CSE",
+    "year": 3,
+    "section": "A",
+    "courses": ["DBMS"]
+  },
+  {
+    "username": "Rahul",
+    "email": "student.b@edupulse.demo",
+    "password": "student123",
+    "role": "student",
+    "department": "CSE",
+    "year": 3,
+    "section": "B",
+    "courses": ["DBMS"]
+  }
+]
